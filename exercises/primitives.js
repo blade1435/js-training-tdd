@@ -14,7 +14,7 @@ const number = 42 ;
 
 const boolean = false ;
 
-const undefined 
+const undefined ;
 //* Begin of tests
 const assert = require('assert');
 
