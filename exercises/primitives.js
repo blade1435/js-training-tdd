@@ -8,13 +8,13 @@
  */
 
 // Your code:
-const lettre = '1337';
+const string = '1337';
 
-const chiffre = 42 ;
+const number = 42 ;
 
-const vraiFaux = false ;
+const boolean = false ;
 
-const nonDéfinie = undefined ;
+const undefined = undefined ;
 //* Begin of tests
 const assert = require('assert');
 
