@@ -7,7 +7,12 @@
  */
 
 // Your code:
-
+//let tab =[]
+function total (tab){
+    var tot = 0;
+    for (var i=0; i < tab.length;i++) { tot += Number(tab[i]);
+    } return tot ;
+}
 //* Begin of tests
 const assert = require('assert');
 
